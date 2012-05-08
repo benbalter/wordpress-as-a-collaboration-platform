@@ -243,3 +243,6 @@ h3 { font-size: 36px; font-weight: bold; color: #464646; line-height: 42px; }
 
 img {max-width: 750px;}
 img {max-height: 600px; }
+
+#wp-document-revisions ol { list-style: decimal; font-size: 42px; line-height: auto; text-align: left; }
+#wp-document-revisions ol li {margin: 15px 0 15px 0; }
