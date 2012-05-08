@@ -228,10 +228,12 @@ a:focus {
 h1 { font-size: 56px; line-height: 72px; font-weight: bold; color: #d54e21; letter-spacing: 1px; }
 h2 { font-size: 48px; font-weight: bold; color: #21759b; letter-spacing: .5px;  }
 h3 { font-size: 36px; font-weight: bold; color: #464646; line-height: 42px; }
-#title img { margin-bottom: 50px; }
+#title img, #title-close img { margin-bottom: 50px; }
 
 .slide h1, .slide h2 {margin-bottom: 50px; } 
 .footnote { bottom: 50px; position: absolute; font-style: italic; }
 
 #roadmap ol { font-size: 42px; line-height: 70px; list-style: decimal; margin-left: auto; margin-right: auto; display: block; width: 25%}
 #roadmap ol li { text-align: left; }
+
+#about ul li {margin-bottom: 25px; }
