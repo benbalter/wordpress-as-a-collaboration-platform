@@ -237,3 +237,9 @@ h3 { font-size: 36px; font-weight: bold; color: #464646; line-height: 42px; }
 #roadmap ol li { text-align: left; }
 
 #about ul li {margin-bottom: 25px; }
+
+.red { color: #d54e21;  }
+.blue {color: #21759b; }
+
+img {max-width: 750px;}
+img {max-height: 600px; }
